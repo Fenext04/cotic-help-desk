@@ -1,0 +1,46 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+.active{
+    color: orange !important;
+    text-decoration: underline;
+    
+   
+}
+
+nav a.nav-link{
+    font-size: 1.1em !important;
+    border-radius: 5px;
+}
+
+
+
+nav a:hover{
+    background-color: orange !important;
+    color:white !important;
+    border-radius: 5px;
+}
+
+.laranja{
+    color:orange !important;
+}
+
+.bg-central-estagios{
+    background-color: #7fa21b!important;
+}
+
+.bg-sisprol{
+    background-color: #426a06 !important;
+}
+
+.bg-sov{
+    background-color: #fd7e14 !important;
+}
+
+.bg-ppc{
+    background-color: #252d68 !important;
+}
+
+section{
+    margin-bottom: 200px;
+}
